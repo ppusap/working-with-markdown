@@ -92,3 +92,6 @@ dcase@nwmissouri.edu
 
 I tried adding a new content to the web page
 
+##  Trail-Image
+![Nature](https://pixabay.com/en/mushroom-autumn-nature-forest-3587888/)
+
